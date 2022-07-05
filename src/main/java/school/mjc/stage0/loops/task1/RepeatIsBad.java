@@ -1,7 +1,6 @@
 
 package school.mjc.stage0.loops.task1;
-import java.util.stream.Stream;
-import java.util.function.Supplier;
+
 
 public class RepeatIsBad {
     public void repeatIsBad(){
